@@ -1,0 +1,7 @@
+1) Wanted to learn Deep Forest ML Algorithm, but to do that, had to have prior knowledge about a decision tree as well. 
+-I didn't know what a decision tree was, so had to understand that as well
+
+2) Random Forest is just a bunch of decision trees. The products of those decision trees are taken into majority vote, and those are the final decision of the whole RandomForest. 
+
+
+used this article: https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/
